@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="PRETTY BITCHES.jpg">
+  <title>FUCKSHIT</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="top-banner">
+    FCKSH8T WEBSTORE
+  </div>
+  <div class="navbar">
+    <ul>
+        <li><a href="Untitled-1.html">HOME</a></li>
+        <li><a href="collection.html">COLLECTION</a></li>
+        <li><a href="contact.html">CONTACT</a></li>
+        <li><a href="about.html">ABOUT</a></li>
+    </ul>
+  </div>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+  <div class="logo">
+    <img src="download (1).png" class="center" alt="FVCKSH8T LOGO">
+  </div>
+
+  <div class="nav-right">
+    <div class="icon-group">
+      <a href="#" id="search-toggle"><i class="fa-solid fa-magnifying-glass"></i></a>
+      <a href="#"><i class="fa-regular fa-user"></i></a>
+      <a href="#"><i class="fa-solid fa-bag-shopping"></i></a>
+    </div>
+  </div>
